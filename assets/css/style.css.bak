@@ -217,7 +217,7 @@ th {
 
     footer {
         flex-direction: column; /* Mengatur arah fleksibel footer untuk tampilan kolom */
-        font-size: 36px; /* Mengurangi ukuran font pada footer untuk layar kecil */
+        font-size: 6px; /* Mengurangi ukuran font pada footer untuk layar kecil */
         height: auto; /* Mengatur tinggi otomatis untuk footer */
     }
 
